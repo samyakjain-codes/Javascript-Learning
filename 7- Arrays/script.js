@@ -31,7 +31,7 @@ let sliceArr = researchArr.slice(1,4)
 // console.log("B = " ,sliceArr);
 // console.log(researchArr);
 
-// let spliceArr = researchArr.splice(1,4)
+let spliceArr = researchArr.splice(1,4)
 // console.log("C = " ,spliceArr );
 // console.log(researchArr);
 
